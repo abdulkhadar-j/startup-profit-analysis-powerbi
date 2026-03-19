@@ -36,3 +36,4 @@ Dataset contains startup financial data including:
 Built a regression model with R² = 0.95 to predict startup profitability.
 
 ## 📸 Dashboard Preview
+![Dashboard](images/dashboard_preview.png)
